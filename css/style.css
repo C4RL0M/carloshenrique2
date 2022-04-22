@@ -440,14 +440,14 @@ a.readmore_bt {
      padding: 10px 0px;
      background: url(../images/hea.png);
      background-repeat: no-repeat;
-background-size: 100% 100%;
-background-position: center center;
+     background-size: 100% 100%;
+     background-position: center center;
 }
 
 .logo {
      float: left;
      position: relative;
-     padding-top: 11px;
+     width: 160px;
 }
 
 nav.main-menu {
@@ -1855,17 +1855,17 @@ border-radius: 50px;
      background: #fff;
      text-align: center;
      padding: 80px 0px 30px 0px ;
+     height: 600px;
 }
 .brand-bg .brand_box > img {
-    height: 200px;
+    height: 510px;
     width: auto;
 }
 .brand-bg .brand_box h3 {
-
+     margin-top: -70px;
      font-size: 27px;
      font-weight: bold;
      color: #131313;
-     padding: 17px 0px 0px 0px;
 }
 .red {
      color: #ff0000;
