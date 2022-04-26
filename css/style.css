@@ -1730,7 +1730,7 @@ color: #fff;
      color: #888687;
      line-height: 32px;
      padding-bottom: 7px;
-    display: block;
+     display: block;
 }
 
 .about .about_box span {
@@ -1739,7 +1739,7 @@ color: #fff;
      line-height: 58px;
      color:#23242a; 
      padding-bottom: 10px;
-display: block
+     display: block
 }
 
 .about .about_box p {
